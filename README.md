@@ -1,2 +1,2 @@
 # Arvy
-Cross-Platform Blues
+Cross cross-platform blues
